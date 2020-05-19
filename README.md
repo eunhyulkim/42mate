@@ -1,5 +1,7 @@
-# 42Mate
+# 42Mate  <img src="/srcs/version.png" width="125">
 ![](/srcs/42mate_banner.png)
+  
+<a href="https://join.slack.com/t/42matespace/shared_invite/zt-e8ay0otg-e2o9cbxfNp9TurFahcXg0A" target="_blank"><img src="/srcs/join.png" width="300"></a>
 
 # This is
 ![](/srcs/match.gif)   
@@ -12,7 +14,9 @@
 
 # Usage
 ![](/srcs/usage.gif)   
-현재 [42Mate Slack](http://example.com/ "Title")에서 이용하실 수 있습니다. 어느 채널에서든 채팅창에 <code>/42mate</code>를 입력하기만 하면, 앱 메시지가 갈 거에요. <code>내일 만나기</code> 버튼을 누른 뒤 기다리면 **밤 12시**에 **Mate와의 DM**이 자동으로 만들어진답니다. 기간은 하루이며, (원래는 42분간 오프라인으로 만나야하지만 코로나 19로 인한 리모트 기간이므로) 메이트와 미션도 수행하고 대화도 나눠보세요. 
+현재 [42Mate Slack](https://join.slack.com/t/42matespace/shared_invite/zt-e8ay0otg-e2o9cbxfNp9TurFahcXg0A)에서 이용하실 수 있습니다. 어느 채널에서든 채팅창에 <code>/42mate</code>를 입력하기만 하면, 앱 메시지가 갈 거에요. <code>내일 만나기</code> 버튼을 누른 뒤 기다리면 **밤 12시**에 **Mate와의 DM**이 자동으로 만들어진답니다. 기간은 하루이며, (원래는 42분간 오프라인으로 만나야하지만 코로나 19로 인한 리모트 기간이므로) 메이트와 미션도 수행하고 대화도 나눠보세요. 
+
+<a href="https://join.slack.com/t/42matespace/shared_invite/zt-e8ay0otg-e2o9cbxfNp9TurFahcXg0A" target="_blank"><img src="/srcs/join.png" width="300"></a>
 
 # Don't worry
 <details><summary>메이트와 연락이 안 되면 어떡하죠?</summary>
@@ -50,7 +54,7 @@
 # Development log
 ![](/srcs/trello.png)
 ![](/srcs/slack.png)
-이 프로젝트는 트렐로와 슬랙을 통해 약 3.5주간 밀도 있는 페어코딩으로 진행되었습니다. **100% 팀원 상호리뷰와 리팩토링**을 거쳤으며, 그 중 **절반 이상의 코드들이 처음부터 페어코딩에 의해 초기 구현되거나 디벨롭**되었습니다. 매일 정기 회의와 함께 회의록을 작성하였으며, 자세힌 개발 히스토리는 [회의록 문서](https://docs.google.com/document/d/10Elm3SYvDszKfWJ0ESh0q480C8-N4-ZdQbV03ATmIMI/edit?usp=sharing)를 통해 확인하실 수 있습니다.
+이 프로젝트는 트렐로와 슬랙을 통해 약 3.5주간 밀도 있는 페어코딩으로 진행되었습니다. **100% 팀원 상호리뷰와 리팩토링**을 거쳤으며, 그 중 **절반 이상의 코드들이 처음부터 페어코딩에 의해 초기 구현되거나 디벨롭**되었습니다. 매일 정기 회의와 함께 회의록을 작성하였으며, 자세힌 개발 히스토리는 [회의록 문서](https://github.com/eunhyulkim/42mate/wiki/Development-log-(2020.04.16~))를 통해 확인하실 수 있습니다.
 
 # Error report
-에러 발생시 <**42born2code**> 워크스페이스에서 **eunhkim**, **jaejeon**, **iwoo**에게로 DM을 보내주세요. 향후 Error report 기능을 앱에 추가할 에정입니다.
+에러 발생시 <**42mate**> 워크스페이스의 staff_it channel을 통해 제보해주세요. 향후 Error report 기능을 앱에 추가할 에정입니다. 
