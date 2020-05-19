@@ -61,9 +61,8 @@ def send_join_invitation_schedule():
 
 
 if __name__ == "__main__":
-    make_match_and_evaluation_schedule()
-    # sched = BlockingScheduler()
-    # sched.add_job(send_evaluation_schedule, 'cron', hour=1)
-    # sched.add_job(send_join_invitation_schedule, 'cron', hour=9)
-    # sched.add_job(make_match_and_evaluation_schedule, 'cron', hour=15, minute=1)
-    # sched.start()
+    sched = BlockingScheduler()
+    sched.add_job(send_evaluation_schedule, 'cron', hour=1)
+    sched.add_job(send_join_invitation_schedule, 'cron', hour=9)
+    sched.add_job(make_match_and_evaluation_schedule, 'cron', hour=15, minute=1)
+    sched.start()
