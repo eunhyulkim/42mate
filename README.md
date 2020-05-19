@@ -3,6 +3,7 @@
   
 <a href="https://join.slack.com/t/42matespace/shared_invite/zt-e8ay0otg-e2o9cbxfNp9TurFahcXg0A" target="_blank"><img src="/srcs/join.png" width="300"></a>
 
+:exclamation:   Full name과 Display name은 **Intra ID로 설정** 부탁드려요 :smile::pray:  :exclamation:
 # This is
 ![](/srcs/match.gif)   
 **42Mate**는 네트워킹 슬랙 앱(Networking Slack Application)으로, 하루에 42Mate 앱에 등록된 **1명의 다른 유저**와 **42분**간 네트워킹의 기회를 제공합니다. 메이트와 식사, 커피, 대화, 페어코딩, 스터디 등 <ins>무엇을 할지는 모두 여러분에게 달려있습니다.</ins> 메이트와 최소한 42분의 시간을 함께한다는 약속만 지켜주신다면요!
@@ -17,6 +18,8 @@
 현재 [42Mate Slack](https://join.slack.com/t/42matespace/shared_invite/zt-e8ay0otg-e2o9cbxfNp9TurFahcXg0A)에서 이용하실 수 있습니다. 어느 채널에서든 채팅창에 <code>/42mate</code>를 입력하기만 하면, 앱 메시지가 갈 거에요. <code>내일 만나기</code> 버튼을 누른 뒤 기다리면 **밤 12시**에 **Mate와의 DM**이 자동으로 만들어진답니다. 기간은 하루이며, (원래는 42분간 오프라인으로 만나야하지만 코로나 19로 인한 리모트 기간이므로) 메이트와 미션도 수행하고 대화도 나눠보세요. 
 
 <a href="https://join.slack.com/t/42matespace/shared_invite/zt-e8ay0otg-e2o9cbxfNp9TurFahcXg0A" target="_blank"><img src="/srcs/join.png" width="300"></a>
+
+:exclamation:   Full name과 Display name은 **Intra ID로 설정** 부탁드려요 :smile::pray:  :exclamation:
 
 # Don't worry
 <details><summary>메이트와 연락이 안 되면 어떡하죠?</summary>
